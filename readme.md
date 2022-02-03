@@ -1,4 +1,13 @@
 # Hi , I'm Baki 👋 😄 
+
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=gulbaki" alt="gulbaki" /> 
+    <img src="https://img.shields.io/github/followers/gulbaki?style=social" />
+    <img src="https://img.shields.io/github/stars/gulbaki/gulbaki?style=social" />
+    <img src="https://img.shields.io/github/watchers/gulbaki/gulbaki?style=social" />
+  
+</p>
+
 ### I'm a Computer Engineer 💻. Skilled in PHP, Nodejs, Java, and javascript. Strong engineering professional graduated from Firat University.
 
 
