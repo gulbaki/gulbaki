@@ -8,7 +8,7 @@
   
 </p>
 
-### I'm a Computer Engineer 💻. Skilled in PHP, Nodejs, Java, and javascript. Strong engineering professional graduated from Firat University.
+### Skilled in PHP, Nodejs, Java, and javascript.
 
 
 
