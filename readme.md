@@ -15,7 +15,7 @@
 ## Connect with me:
 
 <p align ="left"> 
-    <a href ="https://www.linkedin.com/in/baki-gül-0613a6200/" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+    <a href ="https://www.linkedin.com/in/baki-gul/" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
  
  
  
